@@ -108,6 +108,19 @@ TabBarView {
 .withTabItemStyle(CustomItemStyle())
 ```
 
+## Exemples
+### Blur
+<img width="425" alt="Capture d’écran 2025-03-17 à 16 43 33" src="https://github.com/user-attachments/assets/56870382-d81b-423a-8abc-0f5fde5508ff" />
+
+### Transparent
+<img width="424" alt="Capture d’écran 2025-03-17 à 16 43 45" src="https://github.com/user-attachments/assets/ba9c75cf-eebf-42fb-8a2c-edf6402a6253" />
+
+### Plain
+<img width="428" alt="Capture d’écran 2025-03-17 à 16 43 57" src="https://github.com/user-attachments/assets/34df13f2-44e2-46e1-9399-4b52c6098ab4" />
+
+### Floating
+<img width="426" alt="Capture d’écran 2025-03-17 à 16 44 10" src="https://github.com/user-attachments/assets/9126b890-bb14-4fb8-b5f6-f250aaad1aa0" />
+
 ## Contributing
 
 Contributions are welcome! To contribute:
