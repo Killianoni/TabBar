@@ -121,6 +121,9 @@ TabBarView {
 ### Floating
 <img width="426" alt="Capture d’écran 2025-03-17 à 16 44 10" src="https://github.com/user-attachments/assets/9126b890-bb14-4fb8-b5f6-f250aaad1aa0" />
 
+You can also change the icons color/size and spacing
+
+The only limit is your imagination
 ## Contributing
 
 Contributions are welcome! To contribute:
