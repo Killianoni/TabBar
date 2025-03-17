@@ -36,13 +36,13 @@ import TabBar
 struct ContentView: View {
     var body: some View {
         TabBarView {
-            TabBarItem(icon: Image(systemName: "house"), label: Text("Home")) {
+            TabBarItem(icon: "house", label: "Home") {
                 HomeView()
             }
-            TabBarItem(icon: Image(systemName: "magnifyingglass"), label: Text("Search")) {
+            TabBarItem(icon: "magnifyingglass", label: "Search") {
                 SearchView()
             }
-            TabBarItem(icon: Image(systemName: "person"), label: Text("Profile")) {
+            TabBarItem(icon: "person", label: "Profile") {
                 ProfileView()
             }
         }
@@ -94,13 +94,13 @@ Enable smooth animations between tabs:
 
 ```swift
 TabBarView {
-    TabBarItem(icon: Image(systemName: "house"), label: Text("Home")) {
+    TabBarItem(icon: "house", label: "Home") {
         HomeView()
     }
-    TabBarItem(icon: Image(systemName: "magnifyingglass"), label: Text("Search")) {
+    TabBarItem(icon: "magnifyingglass", label: "Search") {
         SearchView()
     }
-    TabBarItem(icon: Image(systemName: "person"), label: Text("Profile")) {
+    TabBarItem(icon: "person", label: "Profile") {
         ProfileView()
     }
 }
